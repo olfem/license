@@ -1,31 +1,31 @@
 [A brief description of material being shared]
 Published on [WEBSITE ADDRESS]
-Copyright (C) [YEAR]  [AUTHOR'S NAME]
+Copyright (c) [YEAR] [AUTHOR'S NAME]
 
 This is released under the Open License for Educational Materials.
 
 1. These materials are free for personal, educational, or in-classroom
    use.  You do not need to give any credit when using them in this way.
 
-2. You can adapt, modify, remix, or share the materials as long as you
+2. You can adapt, modify, remix, or share these materials as long as you
    don't charge for access.  If you publish or share these materials or
-   your adapted versions, you must give credit to the original creator
-   using this standard credit statement:
+   your adapted versions, you must give credit to their original creator
+   using this standard statement:
 
        "Based on material from [AUTHOR NAME OR SITE] released under
         the Open License for Educational Materials (www.olfem.org)"
 
-3. You are not allowed to make commercial use of these materials, or
-   charge for them, without getting express permission from their
-   creator before you publish or charge for them.
+3. You cannot charge for these materials or make any commercial use of
+   them without gaining the express permission from their creator before
+   charging for them.
 
-4. The original creator of this material retains copyright on the
-   material they create.
+4. The original creator of these materials retains copyright on the
+   materials they create.
 
-5. This material is shared without any guarantee of its suitability for
-   use in your given educational setting and curriculum.  Before using
-   this material, you should assess whether it meets your requirements.
-   The original creator of this material accepts no liability for it and
-   no warranty is offered or implied.
+5. These materials are shared without any guarantee of their suitability
+   for use in your given educational setting and curriculum.  Before
+   using them, you should assess whether they meet your requirements.
+   The original creator of these materials accepts no liability and no
+   warranty is offered or implied.
 
-Full terms of this License are published here: www.olfem.org/license/
+The License is published here: www.olfem.org/license/
