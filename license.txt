@@ -24,8 +24,8 @@ This is released under the Open License for Educational Materials.
 
 5. These materials are shared without any guarantee of their suitability
    for use in your given educational setting and curriculum.  Before
-   using them, you should assess whether they meet your requirements.
-   The original creator of these materials accepts no liability and no
-   warranty is offered or implied.
+   using them, you should assess whether they meet your needs and the
+   needs of your class.  The original creator of these materials accepts
+   no liability and no warranty is offered or implied.
 
 The License is published here: www.olfem.org/license/
